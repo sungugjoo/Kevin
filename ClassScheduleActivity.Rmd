@@ -1,0 +1,36 @@
+---
+title: "RMarkdown Class Schedule"
+author: "Matthew Beckman"
+date: "September 7, 2018"
+output: html_notebook
+---
+
+# Class Schedule
+
+### PSU 016: First-Year Seminar
+
+This class is a chance for first-year students to get acclamated to college life.  Each department at Penn State has their own section(s) of PSU 016, so students can take the class with other first-year students in their major.  I enjoy teaching the first-year seminar because it's a great opportunity to me to get to know the new class of Statistics Majors!  This year I'm trying something different by assigning the book "How Not to Be Wrong" by Jordan Ellenberg.  It's a really great book about how I think statisticians/mathematicians see the world differently from most other people.  I hope the class actually enjoys it.
+
+For some reason I admit that I was a little surprised to find a Wikipedia page about first-year seminar classes at American Universities, but  [here's the link](https://en.wikipedia.org/wiki/The_First_Year_Experience_Program)!  The page doesn't currently have a picture, so a classic Penn State picture of Old Main seems as fitting as anything else.
+
+![](http://www.amesphotos.com/psu/old_main_penn_state.jpg)
+
+
+### STAT 184: Introduction to R Programmaing
+
+This course is significant for students in Stat major. It is basic course for R and mendatory for students in Stat major. We can learn how to use R and github which is related to html. When i first took this class, i felt like embrassed and nervous because i've never heard of r and used it. So, i wanted to drop.... so difficult course. But, i become more and more interested in this class by using a lot of sources like Rstudio and Github. 
+If you were interested in this class, you could find more information here. [here's the link](https://bulletins.psu.edu/university-course-descriptions/undergraduate/stat/)
+
+![](https://www.rstudio.com/wp-content/uploads/2019/05/rstudio-og-fb.jpg)
+
+### ESL 015: Academic Writing 2
+
+This class is for first-year students who are foreigners and need to improve their writing skills like how to write scientific essay and articles. It is mendatory for all foreign students. This course gave a lot of opportunites to us like meeting new friends .and improving our writing skills. Our teacher is studying at Master degree and she is Korean. I transfered from Korea Aerospace university, so i have to improve my English to make sure what i'm learning. The point that teacher is a Korean is positive thing to me. 
+If you were interested in this class, you could find more information here. [here's the link](https://bulletins.psu.edu/university-course-descriptions/undergraduate/esl/)!
+
+![](https://s3.amazonaws.com/libapps/accounts/64824/images/welcomelanguages.jpg)
+
+### Math 230 : Calc/Vector Anly
+This class is related to Calculus and Vector, which means they just mixed both. We are learning an manipulative working knowledge of multivariable calculus which is significant for fluid dynamics, mechanics, other science fields and engineering. This is also required class for students in stat major. That's why i take this class, but I've ever been interested in math, this course always makes me interested. It is more important reason than last one. But, be careful... this class also can let you not hanging out with your friends... There is a lot of homeworks, quizzes and exams.
+If you were interested in this class, you could find more information here. [here's the link](https://math.psu.edu/sites/default/files/public/migration/Math230CourseDescription.pdf)
+![](https://sites.math.northwestern.edu/~sweng/teaching/2019s/math230/surface.png)
